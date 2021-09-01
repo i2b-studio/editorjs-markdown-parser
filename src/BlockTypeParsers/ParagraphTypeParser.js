@@ -3,9 +3,7 @@ export function parseParagraphToMarkdown(blocks) {
 }
 
 export function parseMarkdownToParagraph(blocks) {
-  console.log('Blocks', blocks);
   let paragraphData = {};
-
   if (blocks.type === 'paragraph') {
     paragraphData = {
       data: {
