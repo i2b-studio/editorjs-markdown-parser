@@ -19,7 +19,7 @@
   },
   "name": "editorjsMdParser",
   "description": "Import from markdown and export editorjs data to markdown",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "./dist/bundle.js",
   "dependencies": {
     "css-loader": "^5.0.0",
